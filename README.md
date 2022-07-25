@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kboerman
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in learning Terraform Azure and everything Azure related
 - 🌱 I’m currently learning Terraform + AZ104
 
