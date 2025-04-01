@@ -13,12 +13,10 @@ Tech Stack
    <ul>
          <li> Hello , I'm Kevin </li>
          <li> A Dutch support engineer working in Rotterdam </li>
-         <li> Azure 104 Certified
+         <li> Azure 104, 305 & 140 Certified
          <li> This page is about my journey into Cliud and terraform practices</li>
          <li> Now studying:   
             <ul> 
-              <li> Azure 140 </li>  
-              <li> Azure 500 </li> 
               <li> Terraform </li> 
               <li> General Cloud applications </li> 
               <li> Packer</li>
